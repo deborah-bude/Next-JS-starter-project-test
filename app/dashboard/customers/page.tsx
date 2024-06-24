@@ -1,3 +1,5 @@
-export default function Page() {
-    return <p>Dashboard Page</p>;
+import React from "react";
+
+export default function CustomersPage() {
+    return <p>Customers Page</p>
 }
